@@ -38,7 +38,7 @@ Estas tecnologías tienen 4 niveles, a mayor nivel, mayor complejidad en las tar
 
 He creado este repositorio para ir mostrando cómo he solucionado las tareas que se van asignando. Esto me sirve para tenerlo centralizado y poder recurrir a estos apuntes llegado el momento y poderlo compartir con otras personas.
 
-El repositorio contiene dos directorios, en los cuales separo el contenido por idioma, por una lado [ESP (Español)](https://github.com/javi-rod/kodekloud-engineer-task/tree/master/ESP) y por otro lado [ENG (Inglés)](https://github.com/javi-rod/kodekloud-engineer-task/tree/master/ENG). Dentro de estos están los directorios de las diferentes tecnologías (Linux, Docker...) y estos contienen los directorios por nivel que tienen las tareas.
+El repositorio contiene dos directorios, en los cuales separo el contenido por idioma, por una lado [ESP (Español)](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ESP) y por otro lado [ENG (Inglés)](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ENG). Dentro de estos están los directorios de las diferentes tecnologías (Linux, Docker...) y estos contienen los directorios por nivel que tienen las tareas.
 
 # IMPORTANTE
 
@@ -84,7 +84,7 @@ These technologies have 4 levels, the higher the level, the more complex the tas
 
 I have created this repository to show how I have solved the tasks that are assigned. This helps me to have it centralized and to be able to resort to these notes when the time comes and to be able to share it with other people.
 
-The repository contains two directories, in which I separate the content by language, [ESP (Spanish)](https://github.com/javi-rod/kodekloud-engineer-task/tree/master/ESP) and [ENG (English)](https://github.com/javi-rod/kodekloud-engineer-task/tree/master/ENG). Inside these are the directories of the different technologies (Linux, Docker...) and these contain the directories by level that have the tasks.
+The repository contains two directories, in which I separate the content by language, [ESP (Spanish)](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ESP) and [ENG (English)](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ENG). Inside these are the directories of the different technologies (Linux, Docker...) and these contain the directories by level that have the tasks.
 
 # IMPORTANT
 
