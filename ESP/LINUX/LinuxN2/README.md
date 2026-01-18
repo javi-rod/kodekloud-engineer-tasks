@@ -26,4 +26,4 @@
 
 ### [Tarea 13 - Configuración Linux Firewalld](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ESP/LINUX/LinuxN2/Tarea13_Firewalld.md)
 
-### [Tarea 14 - Servidor de correo Postfix en Linux](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ESP/LinuxN2/Tarea14_Correo_Postfix.md)
+### [Tarea 14 - Servidor de correo Postfix en Linux](https://github.com/javi-rod/kodekloud-engineer-tasks/tree/master/ESP/LINUX/LinuxN2/Tarea14_Correo_Postfix.md)
